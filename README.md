@@ -3,6 +3,9 @@ I'm currently working on Embedded Software Development
 
 
 ## 🌐 Socials:
+
+![My Image](C:\Users\hdudu\.github\WIN_20250219_15_08_17_Pro.jpg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hakandudunali) 
 
 # 💻 Tech Stack:
